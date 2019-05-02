@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetroFit</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
